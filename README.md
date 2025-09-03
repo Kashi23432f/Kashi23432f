@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kashifislam
-- 👀"I'm interested in data-related work, whether it's data science or data analytics."
+- 👀"I'm interested in data-related work, whether it's data science or data analytics and also I m good in flutter mobile app development"
 - 🌱 I’m currently persuing my degree in software engineering
 - 📫 you guys can reach out me through my email i-e muhammadkashifislam746@gmail.com
 
