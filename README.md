@@ -2,15 +2,4 @@
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#it is my first flutter app made by muhammad kashif islam it is run on various android ohone that is redmi oixels and samsung it is to do app where use can enter there task which has to be done swipe left on task help you to delet task, also having checkbox and also integrated the local datbase that is hive which use your phone storage.
